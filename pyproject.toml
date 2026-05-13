@@ -1,0 +1,13 @@
+[project]
+name = "spark-workshop-labs"
+version = "0.1.0"
+description = "An introductory Apache Spark workshop using PySpark and Jupyter notebooks"
+requires-python = ">=3.10"
+dependencies = [
+    "pyspark>=3.5.0",
+    "jupyterlab>=4.0.0",
+    "notebook>=7.0.0",
+    "ipykernel>=6.25.0",
+    "jupyter-client>=8.0.0",
+    "jupyter-core>=5.0.0",
+]
