@@ -7,7 +7,6 @@
     "ghcr.io/devcontainers/features/python:1": {
       "version": "3.12"
     },
-    "ghcr.io/devcontainers/features/jupyterlab:1": {},
     "ghcr.io/devcontainers/features/java:1": {
       "version": "17",
       "installMaven": "false",
