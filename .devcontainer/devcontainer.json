@@ -3,7 +3,7 @@
   "name": "Java 17 + Python 3.12",
   "image": "mcr.microsoft.com/devcontainers/java:3-17-bookworm",
 
-  "features":
+  "features": {
     "ghcr.io/devcontainers/features/java:1": {
       "version": "17",
       "installMaven": "false",
