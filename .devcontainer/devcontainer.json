@@ -20,7 +20,7 @@
 			"ms-python.python"
 		],
 		"settings": {
-			"python.defaultInterpreterPath": "/usr/local/bin/python",
+			"python.defaultInterpreterPath": "/usr/bin/python3",
 			"jupyter.notebook.defaultKernel": "python3"
 		}
 		}
