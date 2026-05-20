@@ -1,4 +1,4 @@
-Amount,Currency,Payer account number,Beneficiary account number,Payer country code,Beneficiary country code,Transaction timestamp
+amount,currency,payer_account_number,beneficiary_account_number,payer_country_code,beneficiary_country_code,transaction_timestamp
 3383.64,EUR,HU28EXDV9600133890,FR71GWUW3794026542351161,HU,FR,2025-07-10T05:06:54Z
 769.08,DKK,GB93ORDM8495931034,GB10HDMI5255341928327648,GB,GB,2025-02-03T17:58:29Z
 4627.42,CAD,IE29BZKM13953767242388,RO33XSNS5328710122691669,IE,RO,2025-02-13T10:45:32Z
